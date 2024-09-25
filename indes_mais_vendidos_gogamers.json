@@ -1,0 +1,62 @@
+[
+        {
+            "nome": "Minecraft",
+            "unidades_vendidas": 200000000,
+            "ano_lancamento": 2011,
+            "genero": "Sobrevivência e exploração"
+        },
+        {
+            "nome": "Terraria",
+            "unidades_vendidas": 35000000,
+            "ano_lancamento": 2011,
+            "genero": "Sobrevivência e exploração"
+        },
+        {
+            "nome": "Human Fall Flat",
+            "unidades_vendidas": 35000000,
+            "ano_lancamento": 2016,
+            "genero": "Puzzle"
+        },
+        {
+            "nome": "Stardew Valley",
+            "unidades_vendidas": 20000000,
+            "ano_lancamento": 2016,
+            "genero": "RPG de simulação de fazenda"
+        },
+        {
+            "nome": "Fall Guys",
+            "unidades_vendidas": 10000000,
+            "ano_lancamento": 2020,
+            "genero": "Battle Royale"
+        },
+        {
+            "nome": "Rocket League",
+            "unidades_vendidas": 10500000,
+            "ano_lancamento": 2015,
+            "genero": "Esporte"
+        },
+        {
+            "nome": "Valheim",
+            "unidades_vendidas": 10000000,
+            "ano_lancamento": 2021,
+            "genero": "Sobrevivência"
+        },
+        {
+            "nome": "Cuphead",
+            "unidades_vendidas": 5000000,
+            "ano_lancamento": 2017,
+            "genero": "Run and Gun"
+        },
+        {
+            "nome": "Dead Cells",
+            "unidades_vendidas": 6000000,
+            "ano_lancamento": 2018,
+            "genero": "Roguelike"
+        },
+        {
+            "nome": "The Long Dark",
+            "unidades_vendidas": 5000000,
+            "ano_lancamento": 2014,
+            "genero": "Sobrevivência"
+        }
+]
