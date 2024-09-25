@@ -1,0 +1,42 @@
+[
+    {
+        "nome": "Minecraft",
+        "vendas": 300000000
+    },
+    {
+        "nome": "Grand Theft Auto V",
+        "vendas": 185000000
+    },
+    {
+        "nome": "Tetris",
+        "vendas": 100000000
+    },
+    {
+        "nome": "Wii Sports",
+        "vendas": 82900000
+    },
+    {
+        "nome": "PlayerUnknown's Battlegrounds (PUBG)",
+        "vendas": 75000000
+    },
+    {
+        "nome": "Mario Kart 8 Deluxe",
+        "vendas": 64000000
+    },
+    {
+        "nome": "Super Mario Bros.",
+        "vendas": 58000000
+    },
+    {
+        "nome": "Pokemon Red/Green/Blue/Yellow",
+        "vendas": 47500000
+    },
+    {
+        "nome": "The Elder Scrolls V: Skyrim",
+        "vendas": 30000000
+    },
+    {
+        "nome": "The Legend of Zelda: Breath of the Wild",
+        "vendas": 30000000
+    }
+]
