@@ -1,0 +1,34 @@
+{
+    "jogos_mais_vendidos": [
+        {
+            "posicao": 1,
+            "nome": "Tetris",
+            "copias_vendidas": 520000000,
+            "ano_lancamento": 1984
+        },
+        {
+            "posicao": 2,
+            "nome": "Minecraft",
+            "copias_vendidas": 238000000,
+            "ano_lancamento": null
+        },
+        {
+            "posicao": 3,
+            "nome": "Grand Theft Auto V",
+            "copias_vendidas": 175000000,
+            "ano_lancamento": 2013
+        },
+        {
+            "posicao": 4,
+            "nome": "Wii Sports",
+            "copias_vendidas": 82900000,
+            "ano_lancamento": 2006
+        },
+        {
+            "posicao": 5,
+            "nome": "PUBG",
+            "copias_vendidas": 75000000,
+            "ano_lancamento": null
+        }
+    ]
+}
