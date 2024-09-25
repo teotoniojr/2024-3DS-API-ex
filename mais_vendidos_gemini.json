@@ -1,0 +1,62 @@
+[
+  {
+    "posição": 1,
+    "título": "Hogwarts Legacy",
+    "plataformas": "PS5, Xbox Series, PC",
+    "vendas": 25
+  },
+  {
+    "posição": 2,
+    "título": "The Legend of Zelda: Tears of the Kingdom",
+    "plataformas": "Nintendo Switch",
+    "vendas": 20
+  },
+  {
+    "posição": 3,
+    "título": "Diablo IV",
+    "plataformas": "PS5, Xbox Series, PC",
+    "vendas": 18
+  },
+  {
+    "posição": 4,
+    "título": "Starfield",
+    "plataformas": "Xbox Series, PC",
+    "vendas": 15
+  },
+  {
+    "posição": 5,
+    "título": "Baldur's Gate 3",
+    "plataformas": "PC",
+    "vendas": 12
+  },
+  {
+    "posição": 6,
+    "título": "Resident Evil 4 Remake",
+    "plataformas": "PS5, Xbox Series, PC",
+    "vendas": 10
+  },
+  {
+    "posição": 7,
+    "título": "Final Fantasy XVI",
+    "plataformas": "PS5",
+    "vendas": 9
+  },
+  {
+    "posição": 8,
+    "título": "Street Fighter 6",
+    "plataformas": "PS5, Xbox Series, PC",
+    "vendas": 8
+  },
+  {
+    "posição": 9,
+    "título": "Dead Island 2",
+    "plataformas": "PS5, Xbox Series, PC",
+    "vendas": 7
+  },
+  {
+    "posição": 10,
+    "título": "Marvel's Spider-Man 2",
+    "plataformas": "PS5",
+    "vendas": 6
+  }
+]
