@@ -1,0 +1,42 @@
+[
+  {
+    "título": "Hogwarts Legacy",
+    "vendas": 25000000
+  },
+  {
+    "título": "The Legend of Zelda: Tears of the Kingdom",
+    "vendas": 20000000
+  },
+  {
+    "título": "Diablo IV",
+    "vendas": 18000000
+  },
+  {
+    "título": "Starfield",
+    "vendas": 15000000
+  },
+  {
+    "título": "Baldur's Gate 3",
+    "vendas": 12000000
+  },
+  {
+    "título": "Resident Evil 4 Remake",
+    "vendas": 10000000
+  },
+  {
+    "título": "Final Fantasy XVI",
+    "vendas": 9000000
+  },
+  {
+    "título": "Street Fighter 6",
+    "vendas": 8000000
+  },
+  {
+    "título": "Dead Island 2",
+    "vendas": 7000000
+  },
+  {
+    "título": "Marvel's Spider-Man 2",
+    "vendas": 6000000
+  }
+]
