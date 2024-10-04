@@ -23,6 +23,9 @@ Se você deseja contribuir com este projeto, basta abrir um pull request com sua
 - 
 ## Licença
 
+
+https://script.googleusercontent.com/a/macros/escola.pr.gov.br/echo?user_content_key=q53uLOgWCCUE9sJeaEZ1B9SRNmYYG9dF8gX7WmDAeiHLV_m2BkLaLL46symUId6vVGjPwnz4TSBWbr8gm18VJirpRx1UR2DJOJmA1Yb3SEsKFZqtv3DaNYcMrmhZHmUMi80zadyHLKBGCNaBo701naU8cM07sy4y4YFj_89rZFUYMDKwPsgk-5SU1jNH_Dfar1NDpVcUsjcjsh816l594ZEg04h_PMPiPLgY68IhLkEpyk4bAZ-ECB3zZrSuGgoxE38oAleOJeK8mzDTCqnGIg&lib=MakTQRKMDGqkYDQ1D5LNNB3tRK1nM4oV0
+
 Este projeto está sob a licença MIT. Sinta-se livre para usá-lo e modificá-lo conforme necessário.
 
 ## Contato
